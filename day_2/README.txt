@@ -1,0 +1,1 @@
+## 	El problema pretende resolver lo descrito en la imagen "problema"	##
