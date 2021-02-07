@@ -1,8 +1,9 @@
 html{
 	font-size: 62.5%;
-	background: var(--blanco);
+	background: #FFFFFF;
 	box-sizing: border-box;
 }
+
 *, *:before, *:after{
 	box-sizing: inherit;
 }
