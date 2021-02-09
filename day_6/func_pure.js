@@ -6,7 +6,7 @@ function suma_impure (num_1, num_2) {
 	return total;
 }
 
-/* EJEMPLO CORREGIDO DE LA FUNCION IMPURA Y QUE ES PURA */
+/* EJEMPLO CORREGIDO DE LA FUNCION IMPURA*/
 function sumar_number (num_1, num_2) {
 	return num_1 + num_2
 }
