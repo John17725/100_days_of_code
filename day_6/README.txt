@@ -8,7 +8,8 @@
 ##					FUNCIONES PURAS 					##
 ##	Son aquellas que operan utilizando solo los parametros de entrada
 	sin tener que recurrir a ningun otro elemento fuera de estas 
-	funciones 				##
+	funciones y que ademas todo parametro de entrada no sufre  alteraciones
+	y modificaciones de su contenido	 				##
 
 ##					FUNCIONES COMPUESTAS 				##
 ##	Es aquella funcion que se crea a partir de funciones mas chicas ##
