@@ -145,7 +145,7 @@ function main (monto) {
 	getMonedas_1()+" de 1"
 }
 var aux;
-cantidad = 8;
+cantidad = 6435;
 aux = cantidad;
 
 console.log(main(cantidad))
