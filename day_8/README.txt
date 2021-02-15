@@ -1,0 +1,1 @@
+##	Realizar programa que separe las letras y las muestre de manera invertida sin mutar la palabra 		##
